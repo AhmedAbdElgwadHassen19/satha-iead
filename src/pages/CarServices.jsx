@@ -1,6 +1,6 @@
 import imagCard1 from "../../public/pexels-shuaizhi-tian-485596-28654244.jpg"
 import imagCard2 from "../../public/WhatsApp Image 2025-02-04 at 5.08.53 PM.jpeg"
-import imagCard3 from "../../public/WhatsApp Image 2025-02-04 at 5.08.54 PM (1).jpeg"
+import imagCard3 from "../../public/WhatsApp Image 2025-02-11 at 12.08.37 PM.jpeg"
 import imagCard4 from "../../public/WhatsApp Image 2025-02-04 at 5.08.54 PM.jpeg"
 import imagCard5 from "../../public/WhatsApp Image 2025-02-04 at 5.08.55 PM (1).jpeg"
 import imagCard6 from "../../public/WhatsApp Image 2025-02-04 at 5.08.56 PM (1).jpeg"
@@ -45,8 +45,8 @@ const CarServices = () => {
             <div data-aos = "fade-up-left" className="services col-lg-4 ">
                 <img className="img-fluid" src={imagCard3} alt="" />
                 <div className="card-body bg-dark pt-3">
-                  <h5 className="card-title text-center text-light pb-3">نقل سيارات مصدومة ومعطلة</h5>
-                  <p className="card-text text-center text-light mb-4">  تقديم خدمات النقل المحترفة للسيارات التي تعاني من أعطال أو تضررات.</p>
+                  <h5 className="card-title text-center text-light pb-3">خدمات فتح باب السيارة في جدة في حالة فقدان مفتاح سيارتك داخلها؟</h5>
+                  <p className="card-text text-center text-light mb-4"> لا داعي للقلق! نقدم خدمات فتح السيارة دون الحاجة إلى المفتاح الاحتياطي بأعلى مستويات الجودة والاحترافية. نمتلك الأدوات والمهارات اللازمة لفتح السيارة بدون تلفيات. لدينا خبراء المتخصصين لفتح السيارة</p>
                   <button className="btn btn-warning me-3 mb-3"> <a href="https://wa.me/966540049679" className="text-decoration-none text-dark"> اتصل بنا </a></button>
                 </div>
             </div>
